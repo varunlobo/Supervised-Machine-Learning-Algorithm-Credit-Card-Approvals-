@@ -2,7 +2,8 @@
 
 ### The data for this exercise was obtained from Kaggle. We have feature information like age, zip code , family members, mortgage, etc. and we also have credit card information which is our target variable. Our goal in this exercise is to build a machine Learning model using binary tree to segregate our population into "issue credit card" vs "non-issue of credit card". 
 
-#### We first start by cleaning our dataset, checking for NAs and removing unwanted columns. We the do the following:
+We follow the steps listed below for this project:
+<li>We first start by cleaning our dataset, checking for NAs and removing unwanted columns. 
 <li>Standardize the data
 <li>split data into training and testing data sets.
 <li>Create decision tree model
